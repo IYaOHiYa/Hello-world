@@ -1,5 +1,5 @@
 # Hello-world
-this is my first git!
+this is my **first** git!
 
 [![NPM Version][npm-version-image]][npm-url]
 
