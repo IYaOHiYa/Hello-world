@@ -19,6 +19,16 @@ this is my **first** git!
   ?>
 ```
 
+Small Area
+`
+  var a = 5;
+  var b = 6;
+  console.log(a + b);
+`
+
+Big Area
+    let a = 6
+
 ## SomthingNews
 1. Do you know...
 2. What is XXX...
