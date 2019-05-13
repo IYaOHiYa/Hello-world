@@ -20,6 +20,9 @@ this is my first git!
 ```
 
 ## SomthingNews
+1. Do you know...
+2. What is XXX...
+3. Lastest News
 
 ## AboutMe
 
