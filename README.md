@@ -26,6 +26,8 @@ this is my **first** git!
 
 ## AboutMe
 ###### An normal people
+- [X] in job
+- [] not in job
 
 /*****************/
 so i make some change here!
