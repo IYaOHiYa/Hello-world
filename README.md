@@ -1,7 +1,7 @@
 # Hello-world
 this is my **first** git!
 
-![TEST](https://badge.fury.io/js/ip.svg)
+![TEST](https://badge.fury.io/js/ip.svg "npm ip")
 
 ## Navigator
 - [Home](#Home)
