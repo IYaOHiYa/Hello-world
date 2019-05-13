@@ -11,6 +11,11 @@ this is my first git!
   - [Yahoo](http://www.yahoo.com.tw)
 
 ## Intro
+```js
+  <?php
+    echo "hello world";
+  ?>
+```
 
 ## SomthingNews
 
